@@ -1,3 +1,5 @@
+// Analizar y refactorizar
+
 public class CostePersonal {
  
 	static float CosteDelPersonal(Trabajador trabajadores[]) {
